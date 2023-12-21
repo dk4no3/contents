@@ -1,0 +1,18 @@
+.main2{
+      background-color: #1F2024; 
+      color: white;
+      padding-top: 50px;
+      padding-bottom: 50px;
+  }
+  .cardb{
+  	border: 1px solid   #4b545c;
+  }
+  .td2{
+  	padding: 8px 10px; border-radius: 35px; background-color: #B40A17; align-items: center;
+  }
+  .td3{
+  	padding: 8px 10px; border-radius: 35px; background-color: #0F3887; align-items: center;
+  }
+  #bt2{
+  	width: 30px;
+  }
